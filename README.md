@@ -6,9 +6,9 @@ I'm a Full Stack Developer with a Passion for Designing and Maintaining Web Apps
 
 
    <p align="left">
-      <a href="https://linkedin.com/in/divinepatrick/?tab=followers">
+      <a href="https://x.com/divinepatrickk/?tab=followers">
          <img alt="followers" title="Follow me on X" src="https://custom-icon-badges.demolab.com/twitter/follow/divinepatrickk?color=000000&labelColor=000000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://x.com/divinepatrickk/verified_followers">
+      <a href="https://github.com/divinepatrick/verified_followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/divinepatrick?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
@@ -32,16 +32,13 @@ I'm a Full Stack Developer with a Passion for Designing and Maintaining Web Apps
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
----
-<br />
 <br />
 
 ### 📊 Stats
 <br />
 
-![Divine's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinepatrick&show_icons=true&theme=react)
+![Divine's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinepatrick&show_icons=true&theme=react) ![GitHub Streak](https://streak-stats.demolab.com?user=divinepatrick&theme=react&border_radius=4.5) 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=divinepatrick&theme=react&border_radius=4.5) 
 
 #
 
