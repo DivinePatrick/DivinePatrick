@@ -15,6 +15,7 @@ I'm a Full Stack Developer with a Passion for Designing and Maintaining Web Apps
 ---
 
 ### 👨‍💻 Languages and Tools
+<br />
 
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
